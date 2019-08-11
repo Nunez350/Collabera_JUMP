@@ -1,0 +1,8 @@
+public class Continueit{
+    public static void main(Strings args[ ]){
+        int num = 0;
+            while ( num <= 10)
+             System.out.println("This variable is: "+num);
+
+    }
+}

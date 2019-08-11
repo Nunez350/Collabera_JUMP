@@ -1,0 +1,88 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Checkjava2",
+            "request": "launch",
+            "mainClass": "Checkjava2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CheckJava2",
+            "request": "launch",
+            "mainClass": "CheckJava2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CheckJava",
+            "request": "launch",
+            "mainClass": "CheckJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercise31",
+            "request": "launch",
+            "mainClass": "Exercise31"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Child",
+            "request": "launch",
+            "mainClass": "Child"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Writeable",
+            "request": "launch",
+            "mainClass": "Writeable"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Student",
+            "request": "launch",
+            "mainClass": "Student"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestClass",
+            "request": "launch",
+            "mainClass": "TestClass"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyArrayListClass",
+            "request": "launch",
+            "mainClass": "MyArrayListClass"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyClass",
+            "request": "launch",
+            "mainClass": "MyClass"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Breakit",
+            "request": "launch",
+            "mainClass": "Breakit"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BreakContinue",
+            "request": "launch",
+            "mainClass": "BreakContinue"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Breakitfor",
+            "request": "launch",
+            "mainClass": "Breakitfor"
+        }
+    ]
+}
