@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Continueit",
+            "request": "launch",
+            "mainClass": "Continueit"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Continueitfor",
+            "request": "launch",
+            "mainClass": "Continueitfor"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Checkjava2",
             "request": "launch",
             "mainClass": "Checkjava2"

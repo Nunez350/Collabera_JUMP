@@ -1,4 +1,4 @@
-//an example of mutiple inherintance interfaces
+//an example of mutiple inherintance interface
 
 
 interface Mom{
