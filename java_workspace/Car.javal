@@ -1,0 +1,19 @@
+public abstract class Car {
+    private String _transmission;
+    private String _condition;
+    private String _accelaration;
+    
+    Car(String transmission, String condition, String accelaration){
+        this._transmission= transmission;
+        this._condition=condition;
+        this._accelaration=accelaration;
+    }
+
+    abstract void drive();
+    abstract void stop();
+
+    void (horn(){
+        System.out.println("Beep Beep");
+    })
+
+}
