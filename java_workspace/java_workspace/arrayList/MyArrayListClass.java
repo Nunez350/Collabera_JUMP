@@ -28,13 +28,13 @@ public class MyArrayListClass {
 
     //***methods in ArrayList class**
     //get method
-   // System.out.println(lunch.get(1));
+    System.out.println(lunch.get(1));
    
     //remove method
     //lunch.remove(4);
    
    
-    //clear method
+    //clear method clears arraylist elements
     //lunch.clear();
   
     //set method
@@ -42,9 +42,11 @@ public class MyArrayListClass {
    
     //size method
     
-    System.out.println(lunch.contains());
-    lunch.contains()
-
+    System.out.println(lunch.contains("salad"));
+  
+    //clear method clears arraylist elements
+    //lunch.clear();
+    //Example 
     if ( lunch.get(2).equals("pizza")){
     System.out.println(" We are having pizza today! :P");
     }
