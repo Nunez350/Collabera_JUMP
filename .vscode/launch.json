@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BreakContinue",
+            "request": "launch",
+            "mainClass": "BreakContinue"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Breakitfor",
+            "request": "launch",
+            "mainClass": "Breakitfor"
+        }
+    ]
+}
