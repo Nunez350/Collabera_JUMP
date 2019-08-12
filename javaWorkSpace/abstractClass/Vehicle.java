@@ -1,19 +1,17 @@
 public abstract class Vehicle {
-    private String _transmission;
-    private String _condition;
-    private Integer _price;
+    private String _color;
+    private String _model;
     
-    Vehicle(String transmission, String condition, String accelaration){
-        this._transmission= transmission;
-        this._condition=condition;
-        this._price=price;
+    Vehicle(String color, String model){
+        this._color = color;
+        this._model = model;
     }
-
+    
     abstract void drive();
     abstract void stop();
-
+    abstract void park();
+    
     void horn(){
-        System.out.println("Beep Beep");
-   } 
-
+        System.out.println("Peeeeeep");
+    }
 }

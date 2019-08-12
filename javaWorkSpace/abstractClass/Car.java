@@ -1,9 +1,13 @@
 public class Car extends Vehicle {
-    public Car( String transmission, String condition, Integer price){
-
-        
-    }   
-     @Override
+ 
+    private int _doors;
+    
+    public Car(String color, String model, int doors) {
+        super(color, model);
+        this._doors = doors;
+    }
+ 
+    @Override
     void drive() {
         System.out.println("Car is in drive mode");
     }
