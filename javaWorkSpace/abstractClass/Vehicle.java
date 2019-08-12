@@ -1,19 +1,19 @@
-public abstract class Car {
+public abstract class Vehicle {
     private String _transmission;
     private String _condition;
-    private String _accelaration;
+    private Integer _price;
     
-    Car(String transmission, String condition, String accelaration){
+    Vehicle(String transmission, String condition, String accelaration){
         this._transmission= transmission;
         this._condition=condition;
-        this._accelaration=accelaration;
+        this._price=price;
     }
 
     abstract void drive();
     abstract void stop();
 
-    void (horn(){
+    void horn(){
         System.out.println("Beep Beep");
-    })
+   } 
 
 }
